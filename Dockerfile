@@ -3,4 +3,4 @@ From tomcat:8-jre8
 
 # Maintainer 
 MAINTAINER "muthukumarece008@gmail.com" 
-COPY  /root/.jenkins/workspace/FreeStyle1/target/*.war /root/tomcat8/webapps
+COPY  /root/.jenkins/Workspace/FreeStyle1/target/*.war /root/tomcat8/webapps
